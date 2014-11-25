@@ -1,5 +1,5 @@
 Public Key
 
-Main Key: unstop.pub
+Main Key: untsop.pub
 
-mkdir ~/.ssh; curl 'https://raw.githubusercontent.com/unstop/meta/master/unstop.pub' >> ~/.ssh/authorized_keys; chmod -R 700 ~/.ssh;
+mkdir ~/.ssh; curl 'https://raw.githubusercontent.com/untsop/meta/master/untsop.pub' >> ~/.ssh/authorized_keys; chmod -R 700 ~/.ssh;
